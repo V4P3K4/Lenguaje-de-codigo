@@ -12,3 +12,5 @@
     directamente en la ddeclaración de impresión:</p>
       <p>print(2 + 2)</p>
       <p>print(5 + 4 - 3) </p>
+
+[enlace a pág. 2](pagina2.md)
