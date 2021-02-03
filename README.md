@@ -13,14 +13,7 @@
     directamente en la ddeclaración de impresión:
       "print(2 + 2)"
       "print(5 + 4 - 3)"  
+      
   [video **1** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
-.
-
-.
-
-.
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
-                                                                                                                                      
+  
  [Pág.2](pagina2.md)
