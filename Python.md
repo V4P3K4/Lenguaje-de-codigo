@@ -7,6 +7,8 @@
       <p>"print('Hello world!')</p>
 
   <h3>Operaciones simples</h3>
-  
-   <p> </p>
-      <p> </p>
+ 
+   <p>Python tiene la capacidad de realizar cálculos.Introduce un cálculo
+    directamente en la ddeclaración de impresión:</p>
+      <p>print(2 + 2)</p>
+      <p>print(5 + 4 - 3) </p>
