@@ -1,4 +1,6 @@
-<h1>¬Introducción a Python</h1>
+<h1>Lectura de diferentes lenguajes</h1>
+
+<h2>¬Introducción a Python</h2>
   <h3>-Conceptos basicos de Python</h3>
 
    <h4>Tema 1: Tu primer programa</h4>
