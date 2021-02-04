@@ -7,7 +7,7 @@
       En python, usamos la declaración *print* para generar el texto
       "print('Hello world!')"
 
-  <h3>Tema 2: Operaciones simples</h3>
+  <h4>Tema 2: Operaciones simples</h4>
  
     Python tiene la capacidad de realizar cálculos.Introduce un cálculo
     directamente en la ddeclaración de impresión:
