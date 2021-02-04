@@ -5,7 +5,7 @@
 ##### [Introducción a **Python**](README.md)
 
 <h2>¬Introducción a Python</h2>
-  <h3>-Conceptos basicos de Python</h3>
+  <h3>-Conceptos basicos de Python</h3> ![](https://cosasdedevs.com/media/sections/images/python.png)
   
 
    <h4>Tema 1: Tu primer programa</h4>
