@@ -5,7 +5,6 @@
 <h2>¬Introducción a Python</h2>
   <h3>-Conceptos basicos de Python</h3>
   
-##### [video **introducción** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
 
    <h4>Tema 1: Tu primer programa</h4>
    
@@ -48,3 +47,9 @@
         "print( 8 / 2 )"
         "print( 6 * 7.0 )"
         "print( 4 + 1.65 )"
+
+
+#### Video **Introduccion Python** 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aAaMhNlEbvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
