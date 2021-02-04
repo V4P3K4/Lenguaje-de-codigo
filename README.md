@@ -1,7 +1,11 @@
 <h1>Lectura de diferentes lenguajes</h1>
 
+##### [Introducción a **HTLM**](HTML.md)
+
 <h2>¬Introducción a Python</h2>
   <h3>-Conceptos basicos de Python</h3>
+  
+##### [video **introducción** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
 
    <h4>Tema 1: Tu primer programa</h4>
    
@@ -45,7 +49,3 @@
         
    <h6>Se puede añadir un float a un entero, porque Python convierte
         silenciosamente el entero en un float</h6>
-      
-##### [video **introducción** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
-  
-##### [Introducción a **HTLM**](HTML.md)
