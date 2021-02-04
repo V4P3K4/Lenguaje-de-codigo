@@ -4,7 +4,7 @@
 ##### [Introducción a **CSS**](CSS.md)
 ##### [Introducción a **Python**](README.md)
 
-  <h3>-Conceptos basicos de HTML</h3>
+  <h3>-Conceptos basicos de HTML</h3> ![](http://lineadecodigo.com/wp-content/uploads/2014/04/html5.png)
    <h4>Concepto basico para entender bien " < html > " </h4>
     
    HTML corresponde a las siglas en inglés de "HiperText Markup Langhuiaje" y se puede traducir al español como "Lenguaje de marcas de Hipertexto"
