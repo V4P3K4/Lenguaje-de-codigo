@@ -5,8 +5,9 @@
         A diferencia de un lenguaje de scripting o programación que usa secuencias de comandos para reealizar procesos, un lenguaje de marcado
          utiliza diferentes etiquetas para identificar el contenido.
         
-          <h5><p>Etiqueta HTML:</p></h5>
+          <h5>Etiqueta HTML:</h5>
             "<p>Soy un párafo</p>"
-
-##### [Python](README.md)
- 
+            
+     
+            
+[Python](README.md)
