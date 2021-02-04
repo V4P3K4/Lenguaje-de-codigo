@@ -1,5 +1,9 @@
 <h2>¬Introducción a HTML</h2>
 
+##### [Introducción a **HTLM**](HTML.md)
+##### [Introducción a **CSS**](CSS.md)
+##### [Introducción a **Python**](README.md)
+
   <h3>-Conceptos basicos de HTML</h3>
    <h4>Concepto basico para entender bien " < html > " </h4>
     
@@ -45,6 +49,6 @@
          
 Define el contenido principal del documento HTML
 
-### Video introduccion a HTML
+#### Video **introduccion a HTML**
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cqMfPS8jPys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
