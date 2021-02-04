@@ -19,14 +19,13 @@
    <h4>Operaciones varias</h4>
    
     Exponenciación
-      <h6>"print( 2**5 )"</h6>
+      "print( 2**5 )"
     Cociente de división
-      <h6>"print( 20 // 6)"</h6>
+      "print( 20 // 6)"
     Multiplicación
-      <h6>"print(2 * 3)"</h6>
+      "print(2 * 3)"
     División
-      <h6>"print(8 / 4)"</h6>
-  
+      "print(8 / 4)"
    <h4>Tema 3: Floats</h4>
    
     Los **floats** se usan en Python para representar números que **no son enteros**
