@@ -13,13 +13,18 @@
       directamente en la ddeclaración de impresión:
         "print(2 + 2)"
         "print(5 + 4 - 3)"
-        "print(8 / 4)"
-        "print(2 * 3)"
-      
+        
    <h4>Operaciones varias</h4>
    
-   <h5><>
-   
+    Exponenciación
+      <h6>"print( 2**5 )"</h6>
+    Cociente de división
+      <h6>"print( 20 // 6)"</h6>
+    Multiplicación
+      <h6>"print(2 * 3)"</h6>
+    División
+      <h6>"print(8 / 4)"</h6>
+  
    <h4>Tema 3: Floats</h4>
    
     Los **floats** se usan en Python para representar números que **no son enteros**
@@ -35,11 +40,11 @@
         "print( 8 / 2 )"
         "print( 6 * 7.0 )"
         "print( 4 + 1.65 )"
-   <h5>Se puede añadir un float a un entero, porque Python convierte
-       silenciosamente el entero en un float</h5>
-
-<h4></h4>
+        
+        
+    <h6>Se puede añadir un float a un entero, porque Python convierte
+        silenciosamente el entero en un float</h6>
       
-  [video **1** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
+[video **1** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
   
  [Pág.2](pagina2.md)
