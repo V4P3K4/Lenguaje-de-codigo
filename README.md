@@ -47,6 +47,6 @@
     <h6>Se puede añadir un float a un entero, porque Python convierte
         silenciosamente el entero en un float</h6>
       
-[video **introducción** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
+##### [video **introducción** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
   
- [Introducción a **HTLM**](HTML.md)
+##### [Introducción a **HTLM**](HTML.md)
