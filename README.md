@@ -43,7 +43,7 @@
         "print( 4 + 1.65 )"
         
         
-    <h6>Se puede añadir un float a un entero, porque Python convierte
+   <h6>Se puede añadir un float a un entero, porque Python convierte
         silenciosamente el entero en un float</h6>
       
 ##### [video **introducción** de python](https://www.youtube.com/watch?v=aAaMhNlEbvc)
