@@ -32,6 +32,9 @@
       "print(8 / 4)"
    <h4>Tema 3: Floats</h4>
    
+   <h6>Se puede añadir un float a un entero, porque Python convierte
+        silenciosamente el entero en un float</h6>
+   
     Los **floats** se usan en Python para representar números que **no son enteros**
       (números completos).
     Algunos ejemplos de números que son representados como floats son "0.5 y -7.8237591".
@@ -45,7 +48,3 @@
         "print( 8 / 2 )"
         "print( 6 * 7.0 )"
         "print( 4 + 1.65 )"
-        
-        
-   <h6>Se puede añadir un float a un entero, porque Python convierte
-        silenciosamente el entero en un float</h6>
