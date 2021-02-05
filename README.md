@@ -1,6 +1,3 @@
-<html>
-  <title>Lenguaje de codido</title>
-  
 <h1>Lectura de diferentes lenguajes</h1>
 
 ##### [Introducción a **HTLM**](HTML.md)
@@ -57,4 +54,4 @@
 #### Video **Introduccion Python** 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aAaMhNlEbvc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</html>
+
